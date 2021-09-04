@@ -1,0 +1,25 @@
+.transition{
+    background: whitesmoke;
+    border-radius: 10px;
+    border-color: gray 2px solid;
+}
+.one{
+    color: mediumseagreen;
+    font-family: 'Allison', cursive;
+}
+.two{
+    color: tomato;
+    font-family: 'Glory', sans-serif;
+}
+.three{
+    font-family: 'Montserrat', sans-serif;
+    color: tan;
+}
+.four{
+    color: thistle;
+    font-family: 'Open Sans', sans-serif;
+}
+.five{
+    color: royalblue;
+    font-family: 'Open Sans', sans-serif;
+}
